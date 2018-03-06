@@ -1,0 +1,41 @@
+@font-face {
+            font-family: 'Booster';
+            src: url('Booster/Booster.otf');
+            src: url('Booster/Booster.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+}
+@font-face {
+    font-family: 'ClickerScript';
+    src: url('ClickerScript/ClickerScript-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Higher';
+    src: url('/Higher/Higher.ttf') format('truetype');
+    src: url('/Higher/Higher.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RalewayThin';
+    src: url('Raleway/Raleway-Thin.ttf') format('truetype');
+    
+}
+
+@font-face {
+    font-family: 'RalewayBold';
+    src: url('/Raleway/Raleway-Bold.ttf') format('truetype');
+    
+}
+
+@font-face {
+    font-family: 'Independant';
+    src: url('/static/independant/INDEPEN.ttf') format('truetype');
+    
+}
+
+@font-face {
+    font-family: 'CaviarDreams';
+    src: url('/caviar-dreams/CaviarDreams.ttf') format('truetype');
+    
+}
