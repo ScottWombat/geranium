@@ -16,7 +16,7 @@ app.use("/static", express.static(path.join(__dirname, "/public/css")));
 app.use("/static", express.static(path.join(__dirname, "/public/images")));
 app.use("/static", express.static(path.join(__dirname, "/public/fonts")));
 app.use("/static", express.static(path.join(__dirname, "/public/ico")));
-app.use("/static", express.static(path.join(__dirname, "/../public/js")));
+app.use("/static", express.static(path.join(__dirname, "/public/js")));
 app.use("/static", express.static(path.join(__dirname, "/public/compiled")));
 
 app.use(function (req, res, next) {
